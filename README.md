@@ -1,6 +1,7 @@
 # Node.js & TypeScript 웹 애플리케이션 예제
 
 이 프로젝트는 Node.js, Express, TypeScript, Socket.io를 사용하여 구축된 간단한 웹 애플리케이션입니다.
+Gemini-CLI에 명령만을 사용하여 사용자의 직접적인 코드 수정 없이 생성되었습니다.
 
 ## 기능
 
@@ -51,7 +52,7 @@
 
 1. **의존성 설치**:
    ```bash
-   npm install
+   npm install // ADD node_modules
    ```
 
 2. **클라이언트 스크립트 컴파일**:
